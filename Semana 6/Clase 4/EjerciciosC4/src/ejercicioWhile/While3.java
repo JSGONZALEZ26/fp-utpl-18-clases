@@ -6,7 +6,7 @@
 package ejercicioWhile;
 
 import java.util.Scanner;
-import javax.swing.JOptionPane;
+
 
 /**
  *
